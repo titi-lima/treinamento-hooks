@@ -10,8 +10,6 @@ export const TextInput = styled.input`
 
 export const SubmitButton = styled.button`
   margin-top: 10px;
-  font-size: 25px;
-  padding: 10px;
 `
 
 export const HomeContainer = styled.div`

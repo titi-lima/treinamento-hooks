@@ -1,5 +1,9 @@
 import { Home } from './home';
+import { Counter } from './titi/titi';
+
+
 
 export {
-    Home
+    Home,
+    Counter
 };
